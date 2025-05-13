@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - Actualmente estoy estudiando la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM.
-- Quisiera llegar algún día a crear un videojuego, el primer paso fue tomar la materia optativa de Animación por computadora, me gustó mucho esa materia y usar Blender en el proceso.
+- Quisiera llegar algún día a crear un videojuego, es por esto que tomé de optativas Animación por computadora y Diseño y programación de videojuegos.
+- Estoy haciendo mi servicio social en el ICAT, dándole mantenimiento a una aplicación de realidad aumentada hecha en Unity.
+- Realizando un proyecto en conjunto de una aplicación web para depredación.
 - Mi lenguaje de programación favorito podría ser java, siento que es el que más comprendo, aunque también me gusta progamar en otros lenguajes, en general me gusta programar a la vez de leer documentación para resolver problemas/ejercicios/prácticas.
 - Me gustan los videojuegos, el anime, series, películas y la música, por este último la mayoría del tiempo llevo audífonos puestos.
 
